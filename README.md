@@ -1,6 +1,6 @@
 # Epicture
 
-This is an epitech project where ou build an instagram like application using imgur api.
+This is an epitech project where you build an instagram like application using imgur api.
 
 ## Getting Started
 
