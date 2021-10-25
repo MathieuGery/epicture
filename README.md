@@ -1,6 +1,6 @@
-# flutter_app
+# Epicture
 
-A new Flutter application.
+This is an epitech project where ou build an instagram like application using imgur api.
 
 ## Getting Started
 
